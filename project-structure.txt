@@ -1,0 +1,43 @@
+.
+├── README.md
+├── eslint.config.js
+├── geminiclone.png
+├── index.html
+├── package-lock.json
+├── package.json
+├── project-structure.txt
+├── public
+│   └── vite.svg
+├── src
+│   ├── App.jsx
+│   ├── assets
+│   │   ├── assets.js
+│   │   ├── bulb_icon.png
+│   │   ├── code_icon.png
+│   │   ├── compass_icon.png
+│   │   ├── gallery_icon.png
+│   │   ├── gallery_icon2.png
+│   │   ├── gemini_icon.png
+│   │   ├── history_icon.png
+│   │   ├── menu_icon.png
+│   │   ├── message_icon.png
+│   │   ├── mic_icon.png
+│   │   ├── plus_icon.png
+│   │   ├── question_icon.png
+│   │   ├── react.svg
+│   │   ├── send_icon.png
+│   │   ├── setting_icon.png
+│   │   ├── user_icon.png
+│   │   └── youtube_icon.png
+│   ├── components
+│   │   ├── Sidebar
+│   │   └── main
+│   ├── config
+│   │   └── gemini.js
+│   ├── context
+│   │   └── Context.jsx
+│   ├── index.css
+│   └── main.jsx
+└── vite.config.js
+
+8 directories, 32 files
